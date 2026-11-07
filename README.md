@@ -20,7 +20,7 @@ YouTube Music, your own library, DJ-style Automix and Hi-Res playback.
 
 <br>
 
-**[Download](#download)** · **[Features](#features)** · **[Install](#install)** · **[Contributing](#contributing)** · **[Original Repo](https://github.com/kushagrasinghx/BitChord)** · **[Disclaimer](#disclaimer)**
+**[Download](#download)** · **[Features](#features)** · **[Install](#install)** · **[Contributing](#contributing)** · **[Support](#support)** · **[Original Repo](https://github.com/kushagrasinghx/BitChord)** · **[Disclaimer](#disclaimer)**
 
 <br>
 
@@ -38,14 +38,14 @@ YouTube Music, your own library, DJ-style Automix and Hi-Res playback.
 <div align="center">
 
 ### 💻 macOS (Apple Silicon)
-<a href="https://github.com/fumakill4/BitChord/releases/latest">
+<a href="https://github.com/fumakill4/BitChord/releases/download/macos-v1.9.1.E4/BitChord-1.9.1.E4-macos-arm64.dmg">
   <img src="https://cdn.jsdelivr.net/gh/JMcrafter26/badges@main/src/assets/supported/macos/cozy.svg" alt="Download for macOS" height="60">
 </a>
 
 <br/>
 
-**[Download BitChord-1.9.1.dmg (Latest Apple Silicon Release)](https://github.com/fumakill4/BitChord/releases/download/v1.9.1/BitChord-1.9.1.dmg)**  
-<sub>Or get the previous build: **[BitChord-1.8.29.dmg](https://github.com/fumakill4/BitChord/releases/download/v1.8.29/BitChord-1.8.29.dmg)**</sub>
+**[Download BitChord-1.9.1.E4-macos-arm64.dmg (Latest Apple Silicon Release)](https://github.com/fumakill4/BitChord/releases/download/macos-v1.9.1.E4/BitChord-1.9.1.E4-macos-arm64.dmg)**  
+<sub>macOS Apple Silicon · Build 1.9.1.E4 · [Release notes](https://github.com/fumakill4/BitChord/releases/tag/macos-v1.9.1.E4)</sub>
 
 <br/>
 
@@ -79,7 +79,7 @@ YouTube Music, your own library, DJ-style Automix and Hi-Res playback.
 
 ### 💻 Mac (Apple Silicon)
 
-1. Download **`BitChord-1.9.1.dmg`** from the [Releases](https://github.com/fumakill4/BitChord/releases) page.
+1. Download **`BitChord-1.9.1.E4-macos-arm64.dmg`** from the [macOS release](https://github.com/fumakill4/BitChord/releases/tag/macos-v1.9.1.E4) page.
 2. Open the `.dmg` file and drag **BitChord.app** into your **Applications** folder.
 3. **Gatekeeper Notice:** Because this is an open-source build without an Apple Developer ID signature, Gatekeeper may display a prompt on the first launch (*"BitChord is from an unidentified developer"*).  
    You can easily open it by running this command in Terminal:
@@ -178,6 +178,36 @@ We welcome contributions to BitChord! Please review our [Contributing Guide](CON
 <a href="https://github.com/kushagrasinghx/BitChord/graphs/contributors">
   <img src="https://raw.githubusercontent.com/kushagrasinghx/BitChord/contributors/contributors.svg" />
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+<h1><a id="support"></a>Support</h1>
+
+BitChord is free and always will be — if it's earned a spot in your rotation, you can chip in here:
+
+<br/><br/>
+
+<img src="Support.png" alt="Support BitChord" width="100%" />
+
+<br/>
+
+<details>
+<summary><b>🪙 Crypto Wallet Address (USDT BEP20)</b></summary>
+<br/>
+
+```text
+Network: BNB Smart Chain (BEP20)
+Address: 0x1b683431bc9d503fa170033fd133378465197c5f
+```
+
+> [!WARNING]
+> Only send USDT via BNB Smart Chain (BEP20). Sending via any other network will result in permanent loss of funds.
+
+</details>
 
 </div>
 
