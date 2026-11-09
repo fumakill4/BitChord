@@ -56,7 +56,7 @@ YouTube Music, your own library, DJ-style Automix and Hi-Res playback.
 
 <br/>
 
-**[Download BitChord-iOS-v1.9.1.ipa (Dedicated iOS Release)](https://github.com/fumakill4/BitChord/releases/download/v1.9.1-ios/BitChord-v1.9.1-build20.ipa)**  
+**[Download BitChord-iOS-v2.0.0-build1.ipa (Dedicated iOS Release)](https://github.com/fumakill4/BitChord/releases/download/v2.0.0-ios-build1/BitChord-2.0.0-build1-ios-unsigned.ipa)**  
 <sub>View the dedicated **[iOS v1.9.1 Release Page](https://github.com/fumakill4/BitChord/releases/tag/v1.9.1-ios)**</sub>
 
 <br/>
